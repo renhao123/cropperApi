@@ -1,0 +1,7 @@
+.dp-none {
+	display: none !important;
+}
+
+#crop .modal-body img {
+	max-width: 80%;
+}
